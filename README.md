@@ -12,4 +12,4 @@ This PHP code counts the number of times a specific word appears in a text file 
 
 ## Requirements
 
-- PHP 5.3 or higher
+- PHP 5.3 or higher 
