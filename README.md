@@ -1,4 +1,4 @@
-# PHP Word Occurrence Counter
+# PHP Word Occurrence Counter 
 
 This PHP code counts the number of times a specific word appears in a text file using the built-in `substr_count` function. By calling the `count_word_occurrences` function and passing the filename and the word to search as arguments, it retrieves the contents of the file and uses `substr_count` to count the number of times the word appears in the text. The output displays the count of the word occurrences in the file.
 
